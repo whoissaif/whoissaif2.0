@@ -83,7 +83,7 @@ body {
   
   #header h1 a,
   #header h1 a:hover {
-    font-size: 48px;
+    font-size: 38px;
     color: #20B2AA;
     line-height: 1;
     display: inline-block;
@@ -164,7 +164,7 @@ body {
   
   #header.header-top h1 {
     margin-right: auto;
-    font-size: 36px;
+    font-size: 34px;
   }
   
   #header.header-top .container {
@@ -182,7 +182,7 @@ body {
     }
   
     #header.header-top h1 {
-      font-size: 26px;
+      font-size: 24px;
     }
   }
   
